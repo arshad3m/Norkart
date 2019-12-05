@@ -7,7 +7,7 @@ public class TestConfig{
 	public static String from = "sliit.automation@gmail.com";
 	public static String password = "intel@1234";
 	public static String[] to ={"arshadm@99x.lk"};
-	public static String subject = "SLIIT Regression test report";
+	public static String subject = "Norkart Automation Test Report";
 	
 	public static String messageBody ="TestMessage";
 	public static String attachmentPath="c:\\screenshot\\2017_10_3_14_49_9.jpg";
